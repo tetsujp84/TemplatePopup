@@ -5,4 +5,4 @@
 [UniTask](https://github.com/Cysharp/UniTask)が必要です
 
 UniTask Copyright (c) 2019 Yoshifumi Kawai / Cysharp, Inc.  
-https://github.com/neuecc/UniRx/blob/master/LICENSE
+https://github.com/Cysharp/UniTask/blob/master/LICENSE
